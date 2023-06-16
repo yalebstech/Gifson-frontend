@@ -1,0 +1,46 @@
+.fill-form {
+   border-radius: .2em;
+   max-width: 400px;
+   margin: 3em auto;
+   padding: 1em;
+}
+
+label {
+ display: block;
+ margin-bottom: .5em;
+ margin-top: 1.5em
+}
+
+input[type="email"],
+input[type="text"] {
+ width: 100%;
+ padding: .5em;
+ transition: .5s ease-out;   
+ }
+
+input[type="email"],
+input[type="text"]:focus {
+  outline: 1px solid #bd493c;
+  border:none;
+}
+
+.paystack-button {
+  cursor: pointer;
+  text-align: center;
+  font-size: 10px;
+  letter-spacing: 0.1rem;
+  text-transform: uppercase;
+  background-color: #1D1E4D;
+  font-weight: bold;
+  color: #AA1E4D;
+  border: none;
+  border-radius: 5px;
+  width: 100%;
+  height: 45px;
+  margin-top: 40px;
+}
+
+p:last-of-type {
+ margin-bottom: 0;
+}
+ 

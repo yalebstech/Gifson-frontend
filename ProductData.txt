@@ -1,0 +1,1577 @@
+[
+    {
+        "_id": "5fd88bffd3559537a81d117d",
+        "id": "2306",
+        "ac": "d-block",
+        "dc": "d-none",
+        "name": "Blanket",
+        "category": "Household ",
+        "service": "Wash And Fold",
+        "price": 400,
+        "quantity": 1
+    },
+    {
+        "_id": "5fd88bffd3559537a81d11c9",
+        "id": "4209",
+        "ac": "d-block",
+        "dc": "d-none",
+        "name": "Cotton material",
+        "category": "Women's Wear",
+        "service": "Dry Cleaning",
+        "price": 150,
+        "quantity": 1
+    },
+    
+    {
+        "_id": "5fd88bffd3559537a81d11c0",
+        "id": "4110",
+        "ac": "d-block",
+        "dc": "d-none",
+        "name": "Winter Wear (Sweater / Hoodies)",
+        "category": "Men's Wear",
+        "service": "Dry Cleaning",
+        "price": 200,
+        "quantity": 1
+    },
+    {
+        "_id": "5fd88bffd3559537a81d1192",
+        "id": "3109",
+        "ac": "d-block",
+        "dc": "d-none",
+        "name": "Jacket",
+        "category": "Men's Wear",
+        "service": "Iron And Fold",
+        "price": 150,
+        "quantity": 1
+    },
+    {
+        "_id": "5fd88bffd3559537a81d1195",
+        "id": "3189",
+        "ac": "d-block",
+        "dc": "d-none",
+        "name": "shirt/polo",
+        "category": "Men's Wear",
+        "service": "Iron And Fold",
+        "price": 150,
+        "quantity": 1
+    },
+    {
+        "_id": "5fd88bffd3559537a81d1798",
+        "id": "4449",
+        "ac": "d-block",
+        "dc": "d-none",
+        "name": "Trouser/short",
+        "category": "Men's Wear",
+        "service": "Iron And Fold",
+        "price": 150,
+        "quantity": 1
+    },
+   
+    {
+        "_id": "5fd88bffd3559537a81d11f4",
+        "id": "5210",
+        "ac": "d-block",
+        "dc": "d-none",
+        "name": "Tops",
+        "category": "Women's Wear",
+        "service": "Emergency Service",
+        "subservice": "Iron And Fold",
+        "price": 200,
+        "quantity": 1
+    },
+
+    {
+        "_id":"5fd88bffd3559537a81d1154",
+        "id": "2102",
+        "ac": "d-block",
+        "dc": "d-none",
+        "name": "Trouser/jeans",
+        "service": "Wash And Fold",
+        "category": "Men's Wear",
+        "price": 150,
+        "quantity": 1
+    },
+    {
+        "_id": "5fd88bffd3559537a81d11ab",
+        "id": "3218",
+        "ac": "d-block",
+        "dc": "d-none",
+        "name": "Jacket",
+        "category": "Women's Wear",
+        "service": "Iron And Fold",
+        "price": 500,
+        "quantity": 1
+    },
+    {
+        "_id": "5fd88bffd3559537a81d1170",
+        "id": "2213",
+        "ac": "d-block",
+        "dc": "d-none",
+        "name": "Skirt",
+        "category": "Women's wear",
+        "service": "Wash And Fold",
+        "price": 150,
+        "quantity": 1
+    },
+    {
+        "_id": "62a7bd7a4f12cb50591df5da",
+        "id": "2204",
+        "ac": "d-block",
+        "dc": "d-none",
+        "name": "Winter Wear (Sweater / Cardigan)",
+        "category": "Women's wear",
+        "service": "Wash And Fold",
+        "price": 200,
+        "quantity": 1
+    },
+   
+    {
+        "_id": "5fd88bffd3559537a81d117e",
+        "id": "2307",
+        "ac": "d-block",
+        "dc": "d-none",
+        "name": "Blanket Cover / Bed Cover",
+        "category": "Household ",
+        "service": "Wash And Fold",
+        "price": 150,
+        "quantity": 1
+    },
+  
+    {
+        "_id": "5fd88bffd3559537a81d11de",
+        "id": "5103",
+        "ac": "d-block",
+        "dc": "d-none",
+        "name": "Shirt/T-shirt",
+        "category": "Men's Wear",
+        "service": "Emergency Service",
+        "subservice": "Dry Cleaning",
+        "price": 200,
+        "quantity": 1
+    },
+    {
+        "_id": "5fd88bffd3559537a81d1168",
+        "id": "2205",
+        "ac": "d-block",
+        "dc": "d-none",
+        "name": "Blouse, sleeveless top",
+        "category": "Women's wear",
+        "service": "Wash And Fold",
+        "price": 150,
+        "quantity": 1
+    },
+    {
+        "_id": "5fd88bffd3559537a81d11d9",
+        "id": "4308",
+        "ac": "d-block",
+        "dc": "d-none",
+        "name": "Towel",
+        "category": "Household",
+        "service": "Dry Cleaning",
+        "price": 150,
+        "quantity": 1
+    },
+   
+    {
+        "_id": "5fd88bffd3559537a81d11ca",
+        "id": "4210",
+        "ac": "d-block",
+        "dc": "d-none",
+        "name": "Long Dress",
+        "category": "Women's Wear",
+        "service": "Dry Cleaning",
+        "price": 200,
+        "quantity": 1
+    },
+    {
+        "_id": "5fd88bffd3559537a81d1147",
+        "id": "1210",
+        "ac": "d-block",
+        "dc": "d-none",
+        "name": "Blazer /Jacket",
+        "category": "Women's Wear",
+        "service": "Wash And Iron",
+        "price": 500,
+        "quantity": 1
+    },
+    {
+        "_id": "5fd88bffd3559537a81d118b",
+        "id": "3102",
+        "ac": "d-block",
+        "dc": "d-none",
+        "name": "Trouser /Jeans)",
+        "category": "Men's Wear",
+        "service": "Iron And Fold",
+        "price": 150,
+        "quantity": 1
+    },
+    {
+        "_id": "5fd88bffd3559537a81d11fe",
+        "id": "5220",
+        "ac": "d-block",
+        "dc": "d-none",
+        "name": "Cotton",
+        "category": "Women's Wear",
+        "service": "Emergency Service",
+        "subservice": "Dry Cleaning",
+        "price": 200,
+        "quantity": 1
+    },
+    {
+        "_id": "5fd88bffd3559537a81d118f",
+        "id": "3106",
+        "ac": "d-block",
+        "dc": "d-none",
+        "name": "Inner Wear (Socks /Under Short)",
+        "category": "Men's Wear",
+        "service": "Iron And Fold",
+        "price": 100,
+        "quantity": 1
+    },
+   
+    {
+        "_id": "5fd88bffd3559537a81d11f5",
+        "id": "5211",
+        "ac": "d-block",
+        "dc": "d-none",
+        "name": "Apron / Tops",
+        "category": "Women's Wear",
+        "service": "Emergency Service",
+        "subservice": "Dry Cleaning",
+        "price": 200,
+        "quantity": 1
+    },
+    
+    {
+        "_id": "5fd88bffd3559537a81d11eb",
+        "id": "5201",
+        "ac": "d-block",
+        "dc": "d-none",
+        "name": "Top Wear (Shirt / T-shirt)",
+        "category": "Women's Wear",
+        "service": "Emergency Service",
+        "subservice": "Wash And Iron",
+        "price": 400,
+        "quantity": 1
+    },
+    {
+        "_id": "5fd88bffd3559537a81d116a",
+        "id": "2207",
+        "ac": "d-block",
+        "dc": "d-none",
+        "name": "Inner Wear (Under Garments)",
+        "category": "Women's wear",
+        "service": "Wash And Fold",
+        "price": 150,
+        "quantity": 1
+    },
+    {
+        "_id": "5fd88bffd3559537a81d119b",
+        "id": "3202",
+        "ac": "d-block",
+        "dc": "d-none",
+        "name": "Trouser / Slack)",
+        "category": "Women's Wear",
+        "service": "Iron And Fold",
+        "price": 150,
+        "quantity": 1
+    },
+    {
+        "_id": "5fd88bffd3559537a81d11df",
+        "id": "5104",
+        "ac": "d-block",
+        "dc": "d-none",
+        "name": "Bottom Wear (Trouser/Jeans)",
+        "category": "Men's Wear",
+        "service": "Emergency service",
+        "subservice": "Wash And Iron",
+        "price": 400,
+        "quantity": 1
+    },
+
+    {
+        "_id": "5fd88bffd3559537a81d1221",
+        "id": "6207",
+        "ac": "d-block",
+        "dc": "d-none",
+        "name": "Trouser/Shirt Set (20pcs)",
+        "description": "washing only",
+        "category": "Women's Wear",
+        "service": "Subscription",
+        "price": 100,
+        "quantity": 1
+    },
+    {
+        "_id": "5fd88bffd3559537a81d1183",
+        "id": "2312",
+        "ac": "d-block",
+        "dc": "d-none",
+        "name": "Pillow",
+        "category": "Household",
+        "service": "Wash And Fold",
+        "price": 150,
+        "quantity": 1
+    },
+    {
+        "_id": "5fd88bffd3559537a81d115f",
+        "id": "2113",
+        "ac": "d-block",
+        "dc": "d-none",
+        "name": "Suit (Blazer + Trouser)",
+        "category": "Men's Wear",
+        "service": "Wash And Fold",
+        "price": 1000,
+        "quantity": 1
+    },
+    {
+        "_id": "5fd88bffd3559537a81d1144",
+        "id": "1207",
+        "ac": "d-block",
+        "dc": "d-none",
+        "name": "Blouse, gowns)",
+        "category": "Women's Wear",
+        "service": "Wash And Iron",
+        "price": 300,
+        "quantity": 1
+    },
+    {
+        "_id": "5fd88bffd3559537a81d1175",
+        "id": "2218",
+        "ac": "d-block",
+        "dc": "d-none",
+        "name": "Blazer /Jacket",
+        "category": "Women's wear",
+        "service": "Wash And Fold",
+        "price": 500,
+        "quantity": 1
+    },
+    {
+        "_id": "5fd88bffd3559537a81d11ee",
+        "id": "5204",
+        "ac": "d-block",
+        "dc": "d-none",
+        "name": "Trouser /skirt)",
+        "category": "Women's Wear",
+        "service": "Emergency Service",
+        "subservice": "Iron And Fold",
+        "price": 200,
+        "quantity": 1
+    },
+    {
+        "_id": "5fd88bffd3559537a81d11e6",
+        "id": "5111",
+        "ac": "d-block",
+        "dc": "d-none",
+        "name": "Blazer / Jacket)",
+        "category": "Men's Wear",
+        "service": "Emergency Service",
+        "subservice": "Iron And Fold",
+        "price": 500,
+        "quantity": 1
+    },
+    {
+        "_id": "5fd88bffd3559537a81d11a2",
+        "id": "3209",
+        "ac": "d-block",
+        "dc": "d-none",
+        "name": "Accessories (Scarf / Dupatta / Orna / Muffler)",
+        "category": "Women's Wear",
+        "service": "Iron And Fold",
+        "price": 100,
+        "quantity": 1
+    },
+    {
+        "_id": "5fd88bffd3559537a81d114e",
+        "id": "1303",
+        "ac": "d-block",
+        "dc": "d-none",
+        "name": "Towel",
+        "category": "Household",
+        "service": "Wash And Iron",
+        "price": 300,
+        "quantity": 1
+    },
+    {
+        "_id": "5fd88bffd3559537a81d113b",
+        "id": "1111",
+        "ac": "d-block",
+        "dc": "d-none",
+        "name": "Suit (Blazer + Trouser + Waist Coat)",
+        "category": "Men's Wear",
+        "service": "Wash And Iron",
+        "price": 1000,
+        "quantity": 1
+    },
+    {
+        "_id": "5fd88bffd3559537a81d1187",
+        "id": "2316",
+        "ac": "d-block",
+        "dc": "d-none",
+        "name": "Car Seat Cover",
+        "category": "Household ",
+        "service": "Wash And Fold",
+        "price": 300,
+        "quantity": 1
+    },
+
+    {
+        "_id": "5fd88bffd3559537a81d119c",
+        "id": "3203",
+        "ac": "d-block",
+        "dc": "d-none",
+        "name": "Long Dress (Jumpsuit )",
+        "category": "Women's Wear",
+        "service": "Iron And Fold",
+        "price": 300,
+        "quantity": 1
+    },
+    
+    {
+        "_id": "5fd88bffd3559537a81d11c4",
+        "id": "4204",
+        "ac": "d-block",
+        "dc": "d-none",
+        "name": "Skirt (Medium)",
+        "category": "Women's Wear",
+        "service": "Dry Cleaning",
+        "price": 150,
+        "quantity": 1
+    },
+    {
+        "_id": "61927191e928d2001743ff98",
+        "id": "6731",
+        "ac": "d-block",
+        "dc": "d-none",
+        "name": "Under Shirt(singlet/boxer)",
+        "category": "Men's Wear",
+        "service": "Wash And Iron",
+        "price": 200,
+        "quantity": 1
+    },
+    {
+        "_id": "5fd88bffd3559537a81d1189",
+        "id": "2318",
+        "ac": "d-block",
+        "dc": "d-none",
+        "name": "Travel Bag",
+        "category": "Household ",
+        "service": "Wash And Fold",
+        "price": 300,
+        "quantity": 1
+    },
+    {
+        "_id": "5fd88bffd3559537a81d11af",
+        "id": "3302",
+        "ac": "d-block",
+        "dc": "d-none",
+        "name": "Pillow Case",
+        "category": "Household",
+        "service": "Iron And Fold",
+        "price": 100,
+        "quantity": 1
+    },
+    {
+        "_id": "5fd88bffd3559537a81d11d0",
+        "id": "4216",
+        "ac": "d-block",
+        "dc": "d-none",
+        "name": "Coat",
+        "category": "Women's Wear",
+        "service": "Dry Cleaning",
+        "price": 1000,
+        "quantity": 1
+    },
+    {
+        "_id": "5fd88bffd3559537a81d1161",
+        "id": "2115",
+        "ac": "d-block",
+        "dc": "d-none",
+        "name": "Overcoat / Overall",
+        "category": "Men's Wear",
+        "service": "Wash And Fold",
+        "price": 400,
+        "quantity": 1
+    },
+  
+    {
+        "_id": "5fd88bffd3559537a81d1166",
+        "id": "2203",
+        "ac": "d-block",
+        "dc": "d-none",
+        "name": "Accessories (Scarf /Muffler)",
+        "category": "Women's wear",
+        "service": "Wash And Fold",
+        "price": 100,
+        "quantity": 1
+    },
+ 
+    {
+        "_id": "5fd88bffd3559537a81d11bc",
+        "id": "4106",
+        "ac": "d-block",
+        "dc": "d-none",
+        "name": "Lather Jacket",
+        "category": "Men's Wear",
+        "service": "Dry Cleaning",
+        "price": 400,
+        "quantity": 1
+    },
+    {
+        "_id": "5fd88bffd3559537a81d11e0",
+        "id": "5105",
+        "ac": "d-block",
+        "dc": "d-none",
+        "name": "Trouser / Jeans / Pajama)",
+        "category": "Men's Wear",
+        "service": "Emergency Service",
+        "subservice": "Iron And Fold",
+        "price": 200,
+        "quantity": 1
+    },
+    {
+        "_id": "5fd88bffd3559537a81d1155",
+        "id": "2103",
+        "ac": "d-block",
+        "dc": "d-none",
+        "name": "Blazer /Jacket",
+        "category": "Men's Wear",
+        "service": "Wash And Fold",
+        "price": 500,
+        "quantity": 1
+    },
+    {
+        "_id": "5fd88bffd3559537a81d1199",
+        "id": "3116",
+        "ac": "d-block",
+        "dc": "d-none",
+        "name": "Home Wear (Sleeping suit / Nightdress)",
+        "category": "Men's Wear",
+        "service": "Iron And Fold",
+        "price": 150,
+        "quantity": 1
+    },
+    {
+        "_id": "5fd88bffd3559537a81d1193",
+        "id": "3110",
+        "ac": "d-block",
+        "dc": "d-none",
+        "name": "Suit (Blazer + Trouser)",
+        "category": "Men's Wear",
+        "service": "Iron And Fold",
+        "price": 1000,
+        "quantity": 1
+    },
+    {
+        "_id": "5fd88bffd3559537a81d120a",
+        "id": "5303",
+        "ac": "d-block",
+        "dc": "d-none",
+        "name": "Bed Sheet(Single)",
+        "category": "Household",
+        "service": "Emergency Service",
+        "subservice": "Dry Cleaning",
+        "price": 400,
+        "quantity": 1
+    },
+   {
+        "_id": "5fd88bffd3559537a81d120a",
+        "id": "5303",
+        "ac": "d-block",
+        "dc": "d-none",
+        "name": "Bed Sheet(kingsize)",
+        "category": "Household",
+        "service": "Emergency Service",
+        "subservice": "Dry Cleaning",
+        "price": 1500,
+        "quantity": 1
+    },
+
+    {
+        "_id": "5fd88bffd3559537a81d1151",
+        "id": "1306",
+        "ac": "d-block",
+        "dc": "d-none",
+        "name": "Accessories (Prayer Cap / Napkin etc)",
+        "category": "Household",
+        "service": "Wash And Iron",
+        "price": 100,
+        "quantity": 1
+    },
+  
+    {
+        "_id": "5fd88bffd3559537a81d1179",
+        "id": "2302",
+        "ac": "d-block",
+        "dc": "d-none",
+        "name": "Pillow Case",
+        "category": "Household ",
+        "service": "Wash And Fold",
+        "price": 100,
+        "quantity": 1
+    },
+ 
+    {
+        "_id": "5fd88bffd3559537a81d114f",
+        "id": "1304",
+        "ac": "d-block",
+        "dc": "d-none",
+        "name": "Blanket",
+        "category": "Household",
+        "service": "Wash And Iron",
+        "price": 250,
+        "quantity": 1
+    },
+
+    {
+        "_id": "5fd88bffd3559537a81d11a4",
+        "id": "3211",
+        "ac": "d-block",
+        "dc": "d-none",
+        "name": "Home Wear (Nightdress / Normal Maxi)",
+        "category": "Women's Wear",
+        "service": "Iron And Fold",
+        "price": 150,
+        "quantity": 1
+    },
+    {
+        "_id": "5fd88bffd3559537a81d1153",
+        "id": "2101",
+        "ac": "d-block",
+        "dc": "d-none",
+        "name": "Top Wear (Shirt / T-shirt)",
+        "service": "Wash And Fold",
+        "category": "Men's Wear",
+        "price": 150,
+        "quantity": 1
+    },
+    {
+        "_id": "5fd88bffd3559537a81d11dd",
+        "id": "5102",
+        "ac": "d-block",
+        "dc": "d-none",
+        "name": "Topwear (Shirt / T-shirt / Fatua)",
+        "category": "Men's Wear",
+        "service": "Emergency Service",
+        "subservice": "Iron And Fold",
+        "price": 200,
+        "quantity": 1
+    },
+
+ 
+    {
+        "_id": "5fd88bffd3559537a81d117f",
+        "id": "2308",
+        "ac": "d-block",
+        "dc": "d-none",
+        "name": "Table Cover",
+        "category": "Household ",
+        "service": "Wash And Fold",
+        "price": 150,
+        "quantity": 1
+    },
+    {
+        "_id": "5fd88bffd3559537a81d11e5",
+        "id": "5110",
+        "ac": "d-block",
+        "dc": "d-none",
+        "name": "Blazer/Jacket",
+        "category": "Men's Wear",
+        "service": "Emergency Service",
+        "subservice": "Wash And Iron",
+        "price": 500,
+        "quantity": 1
+    },
+    {
+        "_id": "5fd88bffd3559537a81d11ba",
+        "id": "4104",
+        "ac": "d-block",
+        "dc": "d-none",
+        "name": "Jacket",
+        "category": "Men's Wear",
+        "service": "Dry Cleaning",
+        "price": 150,
+        "quantity": 1
+    },
+    {
+        "_id": "5fd88bffd3559537a81d1202",
+        "id": "5224",
+        "ac": "d-block",
+        "dc": "d-none",
+        "name": "Sweater",
+        "category": "Women's Wear",
+        "service": "Emergency Service",
+        "subservice": "Wash and Iron",
+        "price": 250,
+        "quantity": 1
+    },
+    {
+        "_id": "5fd88bffd3559537a81d1160",
+        "id": "2114",
+        "ac": "d-block",
+        "dc": "d-none",
+        "name": "Suit (Blazer + Trouser + Waist Coat)",
+        "category": "Men's Wear",
+        "service": "Wash And Fold",
+        "price": 1000,
+        "quantity": 1
+    },
+    {
+        "_id": "5fd88bffd3559537a81d1188",
+        "id": "2317",
+        "ac": "d-block",
+        "dc": "d-none",
+        "name": "Accessories (Prayer Cap / Napkin)",
+        "category": "Household ",
+        "service": "Wash And Fold",
+        "price": 150,
+        "quantity": 1
+    },
+    {
+        "_id": "5fd88bffd3559537a81d11ce",
+        "id": "4214",
+        "ac": "d-block",
+        "dc": "d-none",
+        "name": "Gown",
+        "category": "Women's Wear",
+        "service": "Dry Cleaning",
+        "price": 200,
+        "quantity": 1
+    },
+   
+    {
+        "_id": "5fd88bffd3559537a81d118a",
+        "id": "3101",
+        "ac": "d-block",
+        "dc": "d-none",
+        "name": "Top Wear (Shirt / T-shirt / Fatua)",
+        "category": "Men's Wear",
+        "service": "Iron And Fold",
+        "price": 150,
+        "quantity": 1
+    },
+    {
+        "_id": "5fd88bffd3559537a81d11b4",
+        "id": "3307",
+        "ac": "d-block",
+        "dc": "d-none",
+        "name": "Blanket Cover/ Bed Cover",
+        "category": "Household",
+        "service": "Iron And Fold",
+        "price": 150,
+        "quantity": 1
+    },
+    {
+        "_id": "5fd88bffd3559537a81d1180",
+        "id": "2309",
+        "ac": "d-block",
+        "dc": "d-none",
+        "name": "Curtain (Per ft Width)",
+        "category": "Household ",
+        "service": "Wash And Fold",
+        "price": 200,
+        "quantity": 1
+    },
+  
+    {
+        "_id": "5fd88bffd3559537a81d1209",
+        "id": "5302",
+        "ac": "d-block",
+        "dc": "d-none",
+        "name": "Bed Sheet(Single)",
+        "category": "Household",
+        "service": "Emergency Service",
+        "subservice": "Iron And Fold",
+        "price": 500,
+        "quantity": 1
+    },
+        {
+        "_id": "5fd88bffd3559537a81d1209",
+        "id": "5302",
+        "ac": "d-block",
+        "dc": "d-none",
+        "name": "Bed Sheet(King size, Duvet)",
+        "category": "Household",
+        "service": "Emergency Service",
+        "subservice": "Iron And Fold",
+        "price": 1000,
+        "quantity": 1
+    },
+    {
+        "_id": "5fd88bffd3559537a81d1219",
+        "id": "6104",
+        "ac": "d-block",
+        "dc": "d-none",
+        "name": "Suit (Blazer, Trouser)",
+        "description": "5pcs",
+        "category": "Men's Wear",
+        "service": "Subscription",
+        "price": 800,
+        "quantity": 1
+    },
+   
+    {
+        "_id": "5fd88bffd3559537a81d1213",
+        "id": "5210",
+        "ac": "d-block",
+        "dc": "d-none",
+        "name": "Travel Bag",
+        "category": "Household",
+        "service": "Emergency Service",
+        "subservice": "Wash And Iron",
+        "price": 300,
+        "quantity": 1
+    },
+    {
+        "_id": "5fd88bffd3559537a81d11da",
+        "id": "4309",
+        "ac": "d-block",
+        "dc": "d-none",
+        "name": "Pillow",
+        "category": "Household",
+        "service": "Dry Cleaning",
+        "price": 100,
+        "quantity": 1
+    },
+    {
+        "_id": "5fd88bffd3559537a81d114c",
+        "id": "1301",
+        "ac": "d-block",
+        "dc": "d-none",
+        "name": "Bed Sheet",
+        "category": "Household",
+        "service": "Wash And Iron",
+        "price": 800,
+        "quantity": 1
+    },
+   
+    {
+        "_id": "5fd88bffd3559537a81d120b",
+        "id": "5204",
+        "ac": "d-block",
+        "dc": "d-none",
+        "name": "Bed Sheet(Duvet)",
+        "category": "Household",
+        "service": "Emergency Service",
+        "subservice": "Wash And Iron",
+        "price": 1200,
+        "quantity": 1
+    },
+ 
+    {
+        "_id": "5fd88bffd3559537a81d11ef",
+        "id": "5205",
+        "ac": "d-block",
+        "dc": "d-none",
+        "name": "Trouser / Skirt)",
+        "category": "Women's Wear",
+        "service": "Emergency Service",
+        "subservice": "Dry Cleaning",
+        "price": 400,
+        "quantity": 1
+    },
+    {
+        "_id": "5fd88bffd3559537a81d11cf",
+        "id": "4215",
+        "ac": "d-block",
+        "dc": "d-none",
+        "name": "Sweater",
+        "category": "Women's Wear",
+        "service": "Dry Cleaning",
+        "price": 200,
+        "quantity": 1
+    },
+    {
+        "_id": "5fd88bffd3559537a81d120c",
+        "id": "5305",
+        "ac": "d-block",
+        "dc": "d-none",
+        "name": "Bed Sheet(Duvet)",
+        "category": "Household",
+        "service": "Emergency Service",
+        "subservice": "Iron And Fold",
+        "price": 1200,
+        "quantity": 1
+    },
+    
+    {
+        "_id": "5fd88bffd3559537a81d114d",
+        "id": "1302",
+        "ac": "d-block",
+        "dc": "d-none",
+        "name": "Pillow Case",
+        "category": "Household",
+        "service": "Wash And Iron",
+        "price": 200,
+        "quantity": 1
+    },
+    {
+        "_id": "5fd88bffd3559537a81d119e",
+        "id": "3205",
+        "ac": "d-block",
+        "dc": "d-none",
+        "name": "Plain Cotton / Plain Silk / Cotton Design)",
+        "category": "Women's Wear",
+        "service": "Iron And Fold",
+        "price": 150,
+        "quantity": 1
+    },
+    {
+        "_id": "5fd88bffd3559537a81d120d",
+        "id": "5306",
+        "ac": "d-block",
+        "dc": "d-none",
+        "name": "Bed Sheet(Duvet)",
+        "category": "Household",
+        "service": "Emergency Service",
+        "subservice": "Dry Cleaning",
+        "price": 1200,
+        "quantity": 1
+    },
+    
+    {
+        "_id": "5fd88bffd3559537a81d116b",
+        "id": "2208",
+        "ac": "d-block",
+        "dc": "d-none",
+        "name": "Plain Cotton / Plain Silk)",
+        "category": "Women's wear",
+        "service": "Wash And Fold",
+        "price": 105,
+        "quantity": 1
+    },
+     
+    {
+        "_id": "5fd88bffd3559537a81d1204",
+        "id": "5226",
+        "ac": "d-block",
+        "dc": "d-none",
+        "name": "Sweater",
+        "category": "Women's Wear",
+        "service": "Emergency Service",
+        "subservice": "Iron And Fold",
+        "price": 300,
+        "quantity": 1
+    },
+    {
+        "_id": "5fd88bffd3559537a81d121a",
+        "id": "6105",
+        "ac": "d-block",
+        "dc": "d-none",
+        "name": "Marriage Set",
+        "description": "marriage set",
+        "category": "Men's Wear",
+        "service": "Subscription",
+        "price": 5000,
+        "quantity": 1
+    },
+ 
+    {
+        "_id": "5fd88bffd3559537a81d11a6",
+        "id": "3213",
+        "ac": "d-block",
+        "dc": "d-none",
+        "name": "Skirt",
+        "category": "Women's Wear",
+        "service": "Iron And Fold",
+        "price": 150,
+        "quantity": 1
+    },
+    {
+        "_id": "5fd88bffd3559537a81d118d",
+        "id": "3104",
+        "ac": "d-block",
+        "dc": "d-none",
+        "name": "Sweater / Hoodies)",
+        "category": "Men's Wear",
+        "service": "Iron And Fold",
+        "price": 300,
+        "quantity": 1
+    },
+
+    
+    {
+        "_id": "5fd88bffd3559537a81d11b5",
+        "id": "3308",
+        "ac": "d-block",
+        "dc": "d-none",
+        "name": "Curtain",
+        "category": "Household",
+        "service": "Iron And Fold",
+        "price": 200,
+        "quantity": 1
+    },
+ 
+    {
+        "_id": "5fd88bffd3559537a81d11b2",
+        "id": "3305",
+        "ac": "d-block",
+        "dc": "d-none",
+        "name": "Blanket (Single)",
+        "category": "Household",
+        "service": "Iron And Fold",
+        "price": 300,
+        "quantity": 1
+    },
+    {
+        "_id": "5fd88bffd3559537a81d1203",
+        "id": "5225",
+        "ac": "d-block",
+        "dc": "d-none",
+        "name": "Sweater",
+        "category": "Women's Wear",
+        "service": "Emergency Service",
+        "subservice": "Iron And Fold",
+        "price": 200,
+        "quantity": 1
+    },
+    {
+        "_id": "5fd88bffd3559537a81d113a",
+        "id": "1110",
+        "ac": "d-block",
+        "dc": "d-none",
+        "name": "Suit",
+        "category": "Men's Wear",
+        "service": "Wash And Iron",
+        "price": 1000,
+        "quantity": 1
+    },
+    
+    {
+        "_id": "5fd88bffd3559537a81d11b0",
+        "id": "3303",
+        "ac": "d-block",
+        "dc": "d-none",
+        "name": "Big Towel",
+        "category": "Household",
+        "service": "Iron And Fold",
+        "price": 150,
+        "quantity": 1
+    },
+    {
+        "_id": "5fd88bffd3559537a81d1165",
+        "id": "2202",
+        "ac": "d-block",
+        "dc": "d-none",
+        "name": "Trouser/Skirt)",
+        "category": "Women's wear",
+        "service": "Wash And Fold",
+        "price": 150,
+        "quantity": 1
+    },
+    {
+        "_id": "5fd88bffd3559537a81d117c",
+        "id": "2305",
+        "ac": "d-block",
+        "dc": "d-none",
+        "name": "Blanket (Single)",
+        "category": "Household ",
+        "service": "Wash And Fold",
+        "price": 400,
+        "quantity": 1
+    },
+    {
+        "_id": "5fd88bffd3559537a81d11fc",
+        "id": "5218",
+        "ac": "d-block",
+        "dc": "d-none",
+        "name": "Women Cotton Materials",
+        "category": "Women's Wear",
+        "service": "Emergency Service",
+        "subservice": "Wash and Iron",
+        "price": 400,
+        "quantity": 1
+    },
+    {
+        "_id": "5fd88bffd3559537a81d1223",
+        "id": "6302",
+        "ac": "d-block",
+        "dc": "d-none",
+        "name": "Blanket Set (Blanket, Blanket Cover without duvet)",
+        "description": "Blanket-2pis, Blanket Cover-2pis",
+        "category": "Household",
+        "service": "Subscription",
+        "price": 400,
+        "quantity": 1
+    },
+    {
+        "_id": "5fd88bffd3559537a81d1195",
+        "id": "3112",
+        "ac": "d-block",
+        "dc": "d-none",
+        "name": "Overcoat / Overall",
+        "category": "Men's Wear",
+        "service": "Iron And Fold",
+        "price": 300,
+        "quantity": 1
+    },
+
+    {
+        "_id": "5fd88bffd3559537a81d121b",
+        "id": "6201",
+        "ac": "d-block",
+        "dc": "d-none",
+        "name": "Top Wear (Shirt/tops 20pcs)",
+        "description": "20pcs of shirts either washing or ironing",
+        "category": "Women's Wear",
+        "service": "Subscription",
+        "price": 100,
+        "quantity": 1
+    },
+    {
+        "_id": "5fd88bffd3559537a81d1142",
+        "id": "1205",
+        "ac": "d-block",
+        "dc": "d-none",
+        "name": "Home Wear (Nightdress / Normal Maxi)",
+        "category": "Women's Wear",
+        "service": "Wash And Iron",
+        "price": 300,
+        "quantity": 1
+    },
+    {
+        "_id": "5fd88bffd3559537a81d115b",
+        "id": "2109",
+        "ac": "d-block",
+        "dc": "d-none",
+        "name": "Inner Wear (Socks / Shorts / Under Garments)",
+        "category": "Men's Wear",
+        "service": "Wash And Fold",
+        "price": 100,
+        "quantity": 1
+    },
+    {
+        "_id": "5fd88bffd3559537a81d11a3",
+        "id": "3210",
+        "ac": "d-block",
+        "dc": "d-none",
+        "name": "Winter Wear (Sweater / Cardigan)",
+        "category": "Women's Wear",
+        "service": "Iron And Fold",
+        "price": 25,
+        "quantity": 1
+    },
+    {
+        "_id": "5fd88bffd3559537a81d11f3",
+        "id": "5209",
+        "ac": "d-block",
+        "dc": "d-none",
+        "name": "Tops",
+        "category": "Women's Wear",
+        "service": "Emergency Service",
+        "subservice": "Wash and Iron",
+        "price": 400,
+        "quantity": 1
+    },
+    {
+        "_id": "5fd88bffd3559537a81d1138",
+        "id": "1108",
+        "ac": "d-block",
+        "dc": "d-none",
+        "name": "Shorts / Under Garments",
+        "category": "Men's Wear",
+        "service": "Wash And Iron",
+        "price": 300,
+        "quantity": 1
+    },
+  
+    {
+        "_id": "5fd88bffd3559537a81d1178",
+        "id": "2301",
+        "ac": "d-block",
+        "dc": "d-none",
+        "name": "Bed Sheet(normal size)",
+        "category": "Household ",
+        "service": "Wash And Fold",
+        "price": 150,
+        "quantity": 1
+    },
+   
+    {
+        "_id": "5fd88bffd3559537a81d11c1",
+        "id": "4201",
+        "ac": "d-block",
+        "dc": "d-none",
+        "name": "Top Wear (Shirt / T-shirt / Trouser / Pajama)",
+        "category": "Women's Wear",
+        "service": "Dry Cleaning",
+        "price": 150,
+        "quantity": 1
+    },
+    {
+        "_id": "5fd88bffd3559537a81d11c8",
+        "id": "4208",
+        "ac": "d-block",
+        "dc": "d-none",
+        "name": "Silk wear",
+        "category": "Women's Wear",
+        "service": "Dry Cleaning",
+        "price": 150,
+        "quantity": 1
+    },
+  
+    {
+        "_id": "5fd88bffd3559537a81d1173",
+        "id": "2216",
+        "ac": "d-block",
+        "dc": "d-none",
+        "name": "Suit",
+        "category": "Women's wear",
+        "service": "Wash And Fold",
+        "price": 1000,
+        "quantity": 1
+    },
+    {
+        "_id": "5fd88bffd3559537a81d11c5",
+        "id": "4205",
+        "ac": "d-block",
+        "dc": "d-none",
+        "name": "Skirt (Long)",
+        "category": "Women's Wear",
+        "service": "Dry Cleaning",
+        "price": 150,
+        "quantity": 1
+    },
+    {
+        "_id": "5fd88bffd3559537a81d11ae",
+        "id": "3301",
+        "ac": "d-block",
+        "dc": "d-none",
+        "name": "Bed Sheet",
+        "category": "Household",
+        "service": "Iron And Fold",
+        "price": 400,
+        "quantity": 1
+    },
+  
+    {
+        "_id": "5fd88bffd3559537a81d1157",
+        "id": "2105",
+        "ac": "d-block",
+        "dc": "d-none",
+        "name": "Home Wear (Sleeping suit / Nightdress)",
+        "category": "Men's Wear",
+        "service": "Wash And Fold",
+        "price": 200,
+        "quantity": 1
+    },
+    {
+        "_id": "5fd88bffd3559537a81d1164",
+        "id": "2201",
+        "ac": "d-block",
+        "dc": "d-none",
+        "name": "Top Wear (Shirt / T-shirt)",
+        "category": "Women's wear",
+        "service": "Wash And Fold",
+        "price": 150,
+        "quantity": 1
+    },
+    {
+        "_id": "5fd88bffd3559537a81d118c",
+        "id": "3103",
+        "ac": "d-block",
+        "dc": "d-none",
+        "name": "Blazer /Jacket",
+        "category": "Men's Wear",
+        "service": "Iron And Fold",
+        "price": 500,
+        "quantity": 1
+    },
+    {
+        "_id": "5fd88bffd3559537a81d1208",
+        "id": "5301",
+        "ac": "d-block",
+        "dc": "d-none",
+        "name": "Bed Sheet(Single)",
+        "category": "Household",
+        "service": "Emergency Service",
+        "subservice": "Wash And Iron",
+        "price": 120,
+        "quantity": 1
+    },
+    {
+        "_id": "5fd88bffd3559537a81d11e7",
+        "id": "5112",
+        "ac": "d-block",
+        "dc": "d-none",
+        "name": "Blazer/Jacket",
+        "category": "Men's Wear",
+        "service": "Emergency Service",
+        "subservice": "Dry Cleaning",
+        "price": 500,
+        "quantity": 1
+    },
+        {
+        "_id": "5fd88bffd3559537a81d1172",
+        "id": "2215",
+        "ac": "d-block",
+        "dc": "d-none",
+        "name": "Dress / Gown",
+        "category": "Women's wear",
+        "service": "Wash And Fold",
+        "price": 150,
+        "quantity": 1
+    },
+    {
+        "_id": "5fd88bffd3559537a81d11d2",
+        "id": "4301",
+        "ac": "d-block",
+        "dc": "d-none",
+        "name": "Blanket /Comforter (Single)",
+        "category": "Household",
+        "service": "Dry Cleaning",
+        "price": 400,
+        "quantity": 1
+    },
+    
+    {
+        "_id": "5fd88bffd3559537a81d1207",
+        "id": "5229",
+        "ac": "d-block",
+        "dc": "d-none",
+        "name": "Coat",
+        "category": "Women's Wear",
+        "service": "Emergency Service",
+        "subservice": "Dry Cleaning",
+        "price": 1000,
+        "quantity": 1
+    },
+    {
+        "_id": "5fd88bffd3559537a81d1156",
+        "id": "2104",
+        "ac": "d-block",
+        "dc": "d-none",
+        "name": "Sweater",
+        "category": "Men's Wear",
+        "service": "Wash And Fold",
+        "price": 200,
+        "quantity": 1
+    },
+    {
+        "_id": "5fd88bffd3559537a81d11b9",
+        "id": "4103",
+        "ac": "d-block",
+        "dc": "d-none",
+        "name": "Suit (3 Psc)",
+        "category": "Men's Wear",
+        "service": "Dry Cleaning",
+        "price": 1500,
+        "quantity": 1
+    },
+    {
+        "_id": "5fd88bffd3559537a81d11ed",
+        "id": "5203",
+        "ac": "d-block",
+        "dc": "d-none",
+        "name": "Bottom Wear (Trouser, shorts)",
+        "category": "Women's Wear",
+        "service": "Emergency Service",
+        "subservice": "Wash and Iron",
+        "price": 300,
+        "quantity": 1
+    },
+
+    {
+        "_id": "619e31e89b10bb0017c25126",
+        "id": "3178",
+        "ac": "d-block",
+        "dc": "d-none",
+        "name": "shirt",
+        "category": "Men's Wear",
+        "service": "Wash And Iron",
+        "price": 300,
+        "quantity": 1
+    },
+    {
+        "_id": "5fd88bffd3559537a81d11ec",
+        "id": "5202",
+        "ac": "d-block",
+        "dc": "d-none",
+        "name": "Top Wear (Shirt / T-shirt)",
+        "category": "Women's Wear",
+        "service": "Emergency Service",
+        "subservice": "Iron And Fold",
+        "price": 200,
+        "quantity": 1
+    },
+     {
+        "_id": "5fd88bffd3559537a81d11b6",
+        "id": "3309",
+        "ac": "d-block",
+        "dc": "d-none",
+        "name": "Table Cover/Chair Cover",
+        "category": "Household",
+        "service": "Iron And Fold",
+        "price": 200,
+        "quantity": 1
+    },
+    {
+        "_id": "5fd88bffd3559537a81d113f",
+        "id": "1202",
+        "ac": "d-block",
+        "dc": "d-none",
+        "name": "Trouser, shorts, skirts",
+        "category": "Women's Wear",
+        "service": "Wash And Iron",
+        "price": 300,
+        "quantity": 1
+    },
+    
+     {
+        "_id": "5fd88bffd3559537a81d11d4",
+        "id": "4203",
+        "ac": "d-block",
+        "dc": "d-none",
+        "name": "Bed Sheet(King size/Duvet",
+        "category": "Household",
+        "service": "Dry Cleaning",
+        "price": 1000,
+        "quantity": 1
+    },
+     {
+        "_id": "5fd88bffd3559537a81d89d4",
+        "id": "8903",
+        "ac": "d-block",
+        "dc": "d-none",
+        "name": "Towel",
+        "category": "Household",
+        "service": "Dry Cleaning",
+        "price": 200,
+        "quantity": 1
+    },
+    {
+        "_id": "5fd88bffd3559537a81d1150",
+        "id": "1305",
+        "ac": "d-block",
+        "dc": "d-none",
+        "name": "Blanket",
+        "category": "Household",
+        "service": "Wash And Iron",
+        "price": 400,
+        "quantity": 1
+    },
+    
+    {
+        "_id": "5fd88bffd3559537a81d11dc",
+        "id": "5101",
+        "ac": "d-block",
+        "dc": "d-none",
+        "name": "Topwear (Shirt / T-shirt / Fatua)",
+        "category": "Men's Wear",
+        "service": "Emergency Service",
+        "subservice": "Wash And Iron",
+        "price": 400,
+        "quantity": 1
+    },
+ 
+    {
+        "_id": "5fd88bffd3559537a81d119a",
+        "id": "3201",
+        "ac": "d-block",
+        "dc": "d-none",
+        "name": "Top Wear (Shirt / T-shirt)",
+        "category": "Women's Wear",
+        "service": "Iron And Fold",
+        "price": 300,
+        "quantity": 1
+    },
+    
+    {
+        "_id": "5fd88bffd3559537a81d11d3",
+        "id": "4302",
+        "ac": "d-block",
+        "dc": "d-none",
+        "name": "Blanket / Quilt",
+        "category": "Household",
+        "service": "Dry Cleaning",
+        "price": 400,
+        "quantity": 1
+    },
+    {
+        "_id": "5fd88bffd3559537a81d1143",
+        "id": "1206",
+        "ac": "d-block",
+        "dc": "d-none",
+        "name": "Long Dress (Gowns, wrapper)",
+        "category": "Women's Wear",
+        "service": "Wash And Iron",
+        "price": 300,
+        "quantity": 1
+    },
+    {
+        "_id": "5fd88bffd3559537a81d11b7",
+        "id": "4101",
+        "ac": "d-block",
+        "dc": "d-none",
+        "name": "Top Wear (Shirt / T-shirt)",
+        "category": "Men's Wear",
+        "service": "Dry Cleaning",
+        "price": 150,
+        "quantity": 1
+    },
+    
+    {
+        "_id": "5fd88bffd3559537a81d11d5",
+        "id": "4304",
+        "ac": "d-block",
+        "dc": "d-none",
+        "name": "Bed Sheet(Duvet)",
+        "category": "Household",
+        "service": "Dry Cleaning",
+        "price": 1000,
+        "quantity": 1
+    },
+  
+    {
+        "_id": "5fd88bffd3559537a81d11b3",
+        "id": "3306",
+        "ac": "d-block",
+        "dc": "d-none",
+        "name": "Blanket (Double)",
+        "category": "Household",
+        "service": "Iron And Fold",
+        "price": 380,
+        "quantity": 1
+    },
+    {
+        "_id": "5fd88bffd3559537a81d11e1",
+        "id": "5106",
+        "ac": "d-block",
+        "dc": "d-none",
+        "name": "Bottom Wear (Trouser / Jeans /)",
+        "category": "Men's Wear",
+        "service": "Emergency Service",
+        "subservice": "Dry Cleaning",
+        "price": 200,
+        "quantity": 1
+    },
+    
+    {
+        "_id": "5fd88bffd3559537a81d1194",
+        "id": "3111",
+        "ac": "d-block",
+        "dc": "d-none",
+        "name": "Suit",
+        "category": "Men's Wear",
+        "service": "Iron And Fold",
+        "price": 500,
+        "quantity": 1
+    },
+    {
+        "_id": "5fd88bffd3559537a81d1216",
+        "id": "6101",
+        "ac": "d-block",
+        "dc": "d-none",
+        "name": "Top Wear (Shirt, T-shirt)",
+        "description": "20pcs washing only",
+        "category": "Men's Wear",
+        "service": "Subscription",
+        "price": 100,
+        "quantity": 1
+    }
+]
+
+
+
+
+
+
